@@ -191,11 +191,6 @@ class Graph
                 end
             end
         end
-        print(@warp_connections)
-        puts ""
-        puts ""
-        puts ""
-        print(@connector_lengths)
     end
 
     def find_adjacent(i, j)
